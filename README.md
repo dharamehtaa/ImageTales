@@ -1,5 +1,7 @@
 # IMAGE-GENERATION
 
+Screen Recording - https://drive.google.com/file/d/1Whd98MoOGR28mcuyerf5wnmfQJuAScdj/view?usp=sharing
+
 This project focuses on generating high-quality images using advanced machine learning techniques. It leverages state-of-the-art models to create realistic and visually appealing images based on user inputs or predefined parameters.
 
 ## Features
