@@ -1,0 +1,36 @@
+imagetales-generator/
+├── .gitignore
+├── README.md
+├── bun.lockb
+├── components.json
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── public/
+├── src/
+│   ├── App.css
+│   ├── App.tsx
+│   ├── components/
+│   │   ├── ui/
+│   │   ├── Navbar.tsx
+│   │   └── theme-provider.tsx
+│   ├── hooks/
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   ├── index.css
+│   ├── lib/
+│   ├── main.tsx
+│   └── pages/
+│       ├── Docs.tsx
+│       ├── Gallery.tsx
+│       ├── Index.tsx
+│       ├── NotFound.tsx
+│       └── Profile.tsx
+├── tailwind.config.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+├── vite-env.d.ts
